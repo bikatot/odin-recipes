@@ -1,11 +1,67 @@
+p ,
+li {
+    font-size: 25px;
+    margin: 10px;
+}
+
 h1 {
-    font-size: 60px;
+    font-size: 55px;
     text-align: center;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 45%;
+}
+
+.index-list li {
+    font-size: 40px;
+    margin: 15px;
+}
+
+.center-ul {
+    display: table;
+    margin: 0 auto;
+}
+
+.borscht-bg-color {
+    background-color: rgba(158, 72, 63, 70%) ;
+}
+
+.lasagna-bg-color {
+    background-color: rgb(255, 211, 129);
+}
+
+.pizza-bg-color {
+    background-color: rgb(176, 194, 74);
+}
+
+ol li {
+    margin-top: 40px;
+}
+
+p {
+    padding: 15px 0;
+    text-align: center;
+}
+
+.borscht-color {
+    color: rgb(219, 5, 5);
+}
+
+.lasagna-color {
+    color: rgb(255, 211, 129);
+}
+
+.pizza-color {
+   color: rgb(176, 194, 74);
 }
